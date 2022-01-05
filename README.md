@@ -34,7 +34,12 @@ Programming resources for different languages, useful for learning new abilities
 
 ### Diagrams
 
-- Diagrams.net diagraming tool: (https://app.diagrams.net/)
+- **Diagrams.net diagraming tool**: (https://app.diagrams.net/)
+
+### Documentación and Software Projects Structure
+
+- **Métrica 3** by Manuel Cillero: (https://manuel.cillero.es/doc/metodologia/metrica-3/)
+- **ARC42 Documentation Templates**: (https://arc42.org/overview/)
 
 ### Usability and Accessibility
 
