@@ -16,6 +16,7 @@ Programming resources for different languages, useful for learning new abilities
 
 ### Java
 
+- **Online Java Compiler** by Tutorial's Point: (https://www.tutorialspoint.com/compile_java_online.php)
 - **Java Programming Cheatsheet** (Princeton): (https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ### JavaScript
@@ -25,6 +26,10 @@ Programming resources for different languages, useful for learning new abilities
 ### Python
 
 - **Python basics cheatsheet** (unknown author): (https://github.com/jose-r-lopez/Programming-Resources/blob/main/20220102_151751.jpg)
+
+### SQL
+
+- **MySQL JOIN types** by Steve Stedman: (http://stevestedman.com/2015/03/mysql-join-types-poster/)
 
 ### Multiple Programming Languages & Concepts
 
