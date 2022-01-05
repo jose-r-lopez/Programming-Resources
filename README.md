@@ -26,7 +26,7 @@ Programming resources for different languages, useful for learning new abilities
 
 - **DevSamples** (code examples for common requirements in multiple languages): (https://www.devsamples.com/)
 
-## Other programming típica
+## Other programming topics
 
 ### Design Patterns
 
