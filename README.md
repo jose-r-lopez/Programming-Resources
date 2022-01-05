@@ -26,9 +26,10 @@ Programming resources for different languages, useful for learning new abilities
 
 - **Python basics cheatsheet** (unknown author): (https://github.com/jose-r-lopez/Programming-Resources/blob/main/20220102_151751.jpg)
 
-### Multiple Programming Languages
+### Multiple Programming Languages & Concepts
 
 - **DevSamples** (code examples for common requirements in multiple languages): (https://www.devsamples.com/)
+- **Wizard Zines** by Julia Evans: (https://wizardzines.com/comics/)
 
 ## Other programming topics
 
