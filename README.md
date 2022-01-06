@@ -45,7 +45,8 @@ Programming resources for different languages, useful for learning new abilities
 
 ### Design Patterns
 
-- **The Catalog of Design Patterns**: (https://refactoring.guru/design-patterns/catalog)
+- **Catalog of Design Patterns**: (https://refactoring.guru/design-patterns/catalog)
+- **Patterns of Distributed Systems** by Martín Fowler: (https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
 ### Diagrams
 
