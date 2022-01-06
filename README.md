@@ -51,6 +51,10 @@ Programming resources for different languages, useful for learning new abilities
 - **Métrica 3** by Manuel Cillero: (https://manuel.cillero.es/doc/metodologia/metrica-3/)
 - **ARC42 Documentation Templates**: (https://arc42.org/overview/)
 
+### UI / UX
+
+- ***1-Line Layouts: 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be*** by @una: (https://1linelayouts.glitch.me/)
+
 ### Usability and Accessibility
 
 - **Access Guide, a friendly introduction to accessibility**: (https://www.accessguide.io/)
