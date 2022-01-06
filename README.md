@@ -13,6 +13,7 @@ Programming resources for different languages, useful for learning new abilities
 - **C# concepts zines** (English, self-promotion :)): (https://www.researchgate.net/publication/357538658_C_through_fanzines_Easy_Way_of_Understanding_C_Concepts_English_Edition)
 - **Zines de conceptos de C#** (Español, auto-promocion :)): (https://www.researchgate.net/publication/357538724_C_a_traves_del_Fanzine_Entendiendo_Conceptos_de_C_de_Forma_Sencilla_Edicion_en_Espanol)
 - **Source Generators** (Español, auto-promocion): (https://www.compartimoss.com/revistas/numero-50/source_generators)
+- **Ahorrando código: Funcionalidades de C# para no Programar (de) más (pero programar mejor)** by Alba Cotarelo, Antonio Paya and me (in Spanish): (https://www.compartimoss.com/revistas/numero-46/ahorrando-codigo-funcionalidades-de-c-para-no-programar-de-mas)
 
 ### Java
 
