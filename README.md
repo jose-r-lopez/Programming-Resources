@@ -39,6 +39,10 @@ Programming resources for different languages, useful for learning new abilities
 
 ## Other programming topics
 
+### Data Structures and Algorithms
+
+- **Algorithms and Data Structures Cheatsheet** by Princeton (https://algs4.cs.princeton.edu/cheatsheet/)
+
 ### Design Patterns
 
 - **The Catalog of Design Patterns**: (https://refactoring.guru/design-patterns/catalog)
