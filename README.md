@@ -64,6 +64,7 @@ Programming resources for different languages, useful for learning new abilities
 ### UI / UX
 
 - ***1-Line Layouts: 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be*** by @una: (https://1linelayouts.glitch.me/)
+- ***Defensive CSS: avoiding future CSS problems*** by Ahmad Shadeed: ( https://ishadeed.com/article/defensive-css/)
 - ***Free stock photos for presentations, backgrounds, etc.*** by pexels.com: (https://www.pexels.com/)
 - **Multiple free icon sources** (Twitter thread, in Spanish): (https://twitter.com/miriamgonp/status/1374643609765605377?t=aSwuMDC8-13sL6Eh9x1wQQ&s=19)
 
