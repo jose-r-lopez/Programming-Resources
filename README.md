@@ -10,7 +10,7 @@ Programming resources for different languages, useful for learning new abilities
 ### C#
 
 - **Ahorrando código: Funcionalidades de C# para no Programar (de) más (pero programar mejor)** by *Alba Cotarelo, Antonio Paya and me* (in Spanish): (https://www.compartimoss.com/revistas/numero-46/ahorrando-codigo-funcionalidades-de-c-para-no-programar-de-mas)
-- **Benchmark .Net: measuring performance of .Net programa** (https://benchmarkdotnet.org/articles/overview.html)
+- **Benchmark .Net: measuring performance of .Net programs** (https://benchmarkdotnet.org/articles/overview.html)
 - **C# concepts zines** by *me* (English) (https://www.researchgate.net/publication/357538658_C_through_fanzines_Easy_Way_of_Understanding_C_Concepts_English_Edition)
 - **C#aracterísticas Fantásticas y Dónde Encontrarlas: La Pythonización del C#** by *me* (https://www.researchgate.net/publication/338584100_Caracteristicas_Fantasticas_y_Donde_Encontrarlas_La_Pythonizacion_del_C)
 - **DotNetFiddle, online C# compiler** (https://dotnetfiddle.net)
