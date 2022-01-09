@@ -86,8 +86,9 @@ Programming resources for different languages, useful for learning new abilities
 - **Free stock photos for presentations, backgrounds, etc.** (https://www.pexels.com/)
 - **Grid for layout, Flexbox for components** by *Ahmad Shadeed* (https://ishadeed.com/article/grid-layout-flexbox-components/?s=09)
 - **Multiple free icon sources** (*Twitter thread*, in Spanish): (https://twitter.com/miriamgonp/status/1374643609765605377?t=aSwuMDC8-13sL6Eh9x1wQQ&s=19)
+- **Understanding Z-Index in CSS** by *Ahmad Shadeed* (https://ishadeed.com/article/understanding-z-index/?s=09)
 - **Undraw.co: Open-source illustrations for any idea you can imagine and create** (https://undraw.co/)
-
+- **What The Heck, z-index??** by *Josh Comeau* (https://www.joshwcomeau.com/css/stacking-contexts/?s=09)
 
 ### Usability and Accessibility
 
