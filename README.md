@@ -80,6 +80,7 @@ Programming resources for different languages, useful for learning new abilities
 ### UI / UX
 
 - **1-Line Layouts: 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be** by *@una* (https://1linelayouts.glitch.me/)
+- **Block Element Modifier (BEM) Methodology Cheatsheet** (https://9elements.com/bem-cheat-sheet/?s=09)
 - **Blush.design: Easily create and customize stunning illustrations** (https://blush.design/)
 - **Defensive CSS: avoiding future CSS problems** by *Ahmad Shadeed* ( https://ishadeed.com/article/defensive-css/)
 - **Free stock photos for presentations, backgrounds, etc.** (https://www.pexels.com/)
