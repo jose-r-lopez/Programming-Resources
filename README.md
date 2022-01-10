@@ -19,7 +19,7 @@ Programming resources for different languages, useful for learning new abilities
 - **Zines de conceptos de C#** (Español) by *me* (https://www.researchgate.net/publication/357538724_C_a_traves_del_Fanzine_Entendiendo_Conceptos_de_C_de_Forma_Sencilla_Edicion_en_Espanol)
 
 ### Go
-C
+
 - **Learn Go with tests** by *quii* (https://quii.gitbook.io/learn-go-with-tests/) (thanks @Chuwi97!)
 
 ### Java
@@ -43,9 +43,16 @@ C
 - **MySQL JOIN types** by *Steve Stedman* (http://stevestedman.com/2015/03/mysql-join-types-poster/)
 
 
+### Web Development
+
+- **10 Projects in 10 Hours** by *Florín Pop* (https://github.com/florinpop17/10-projects-10-hours)
+- **50 Projects in 50 Days - HTML/CSS and JavaScript** by *Brad Traversy* (https://github.com/bradtraversy/50projects50days?s=09)
+
+
 ### Multiple Programming Languages & Concepts
 
 - **DevSamples** (code examples for common requirements in multiple languages) (https://www.devsamples.com/)
+- **Los Apuntes de Majo** by *Majo Ledesma* (@majoledes) (https://losapuntesdemajo.vercel.app/)
 - **Wizard Zines** by *Julia Evans* (https://wizardzines.com/comics/)
 
 
