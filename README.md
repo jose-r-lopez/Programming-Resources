@@ -38,6 +38,11 @@ Programming resources for different languages, useful for learning new abilities
 - **Python basics cheatsheet** (*unknown author*) (https://github.com/jose-r-lopez/Programming-Resources/blob/main/20220102_151751.jpg)
 
 
+### Scratch
+
+- **Raspberry Pi Code Club Game Projects** (https://projects.raspberrypi.org/en/projects/?interests[]=games)
+
+
 ### SQL
 
 - **MySQL JOIN types** by *Steve Stedman* (http://stevestedman.com/2015/03/mysql-join-types-poster/)
@@ -47,6 +52,7 @@ Programming resources for different languages, useful for learning new abilities
 
 - **10 Projects in 10 Hours** by *Florín Pop* (https://github.com/florinpop17/10-projects-10-hours)
 - **50 Projects in 50 Days - HTML/CSS and JavaScript** by *Brad Traversy* (https://github.com/bradtraversy/50projects50days?s=09)
+- **Raspberry Pi Code Club web Projects** (https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 
 
 ### Multiple Programming Languages & Concepts
