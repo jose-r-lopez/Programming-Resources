@@ -7,6 +7,8 @@ thaugth in the _Bachelor of Software Engineering_ of the _Scool of Computer Engi
 
 Since I am no longer teaching programming courses, I have repurposed this repository to help my **_Final Degree Project_** students to have curated materials to develop their works 
 
+This repository deals with software construction tools and techniques. For security-focused content (including software security) please check my **Security materials repository** at https://github.com/jose-r-lopez/SSI_Extra_Materials. For infrastructure construction techniques (focused on IaC), please check my **Infrastructure automation repository** at https://github.com/jose-r-lopez/SSI_Infraestructure_Automation_Materials.
+
 **For better structure and classification, all the content have been moved to the repo Wiki: https://github.com/jose-r-lopez/Programming-Resources/wiki**
 
 
