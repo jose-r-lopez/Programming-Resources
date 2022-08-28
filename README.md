@@ -1,4 +1,4 @@
-# Programming Resources for my Final Degree Work students
+# Programming and Documentation Resources for my Final Degree Work students
 
 Programming resources for different languages, useful for learning new abilities or review your current knowledge. 
 
